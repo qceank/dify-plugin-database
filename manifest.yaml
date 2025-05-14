@@ -1,6 +1,6 @@
 version: 0.0.5
 type: plugin
-author: hjlarry
+author: qceank
 name: database
 label:
   en_US: database
@@ -38,4 +38,3 @@ meta:
     version: "3.12"
     entrypoint: main
 created_at: 2024-12-24T14:34:18.7972424+08:00
-verified: false
